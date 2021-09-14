@@ -1,24 +1,5 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# hello_app
+## テキストとの違い
+- GemfileにRubyのバージョンを記載 (今回は3.0.2を使用)
+- `listen`のバージョンを`3.1.5`から`3.2.0`に変更
+- `sqlite3`のバージョンを`1.4.1`から`1.4.2`に変更
